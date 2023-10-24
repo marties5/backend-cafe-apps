@@ -4,7 +4,6 @@ const express = require(`express`)
 const app = express()
 
 const PORT = 8000
-/** load library cors */
 const cors = require(`cors`)
 app.use(express.static(__dirname))
 const bodyParser = require("body-parser")

@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": null,
-    "database": "wikusama_cafe_v2",
+    "database": "maescafe_db",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "port": 3307
